@@ -1,4 +1,5 @@
-** Test de practicas realizados en cypress, utilizando como pagina para los test www.saucedemo.com **
+* Test de practicas realizados en cypress, utilizando como pagina para los test www.saucedemo.com *
+  
 Los test son realizados para XAcademy QA Automation
 
 - Link de la Copia de los Casos de Pruebas: 
